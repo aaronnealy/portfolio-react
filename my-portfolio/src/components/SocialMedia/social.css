@@ -1,0 +1,12 @@
+.social{
+    padding-top: 38px;
+}
+
+.social h3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.social h3 a:hover {
+    color: #fd5e53;
+  }

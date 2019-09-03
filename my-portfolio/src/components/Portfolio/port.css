@@ -1,0 +1,41 @@
+.projects{
+    
+    /* margin-left: 55%; */
+    margin-top: 10%;
+    padding-bottom: 36px;
+    letter-spacing: 4px;
+}
+
+.portRow{
+    justify-content: center;
+    background-color: rgb(219, 229, 230);
+    padding-bottom: 36px;
+}
+
+.portContainer{
+    background-color: rgb(219, 229, 230);
+}
+
+.portImg1{
+    border-radius: 0%;
+    margin-left: -11%;
+    margin-top: 12px;
+    width: 200px;
+    height: 200px;
+}
+
+.portImg2{
+    border-radius: 0%;
+    margin-left: auto;
+    margin-top: 12px;
+    width: 200px;
+    height: 200px;
+}
+
+.portImg3{
+    border-radius: 0%;
+    margin-right: -12%;
+    margin-top: 12px;
+    width: 200px;
+    height: 200px;
+}

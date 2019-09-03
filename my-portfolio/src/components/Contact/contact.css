@@ -1,0 +1,14 @@
+.Contact ul li{
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.Contact h4 {
+    padding-top: 5%;
+}
+
+.Contact ul {
+    margin-bottom: 15%;
+}
+

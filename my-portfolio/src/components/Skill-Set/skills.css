@@ -1,0 +1,40 @@
+.skillSet{
+    text-decoration-line: underline;
+    /* margin-left: 55%; */
+    margin-top: 10%;
+    padding-bottom: 36px;
+    letter-spacing: 4px;
+}
+
+.cusRow{
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+.html{
+    /* background-color: #2A2A72; */
+    /* background-color:rgb(77, 18, 167); */
+    /* background-color: #e64b00; */
+    background-image: linear-gradient(to bottom right, #e64b00, #fe7031);
+}
+
+.react{
+   /* background-color: #009FFD; */
+   /* background-color:rgb(38, 7, 87); */
+   background-image: linear-gradient(to right, #e64b00, #fe7031);
+   width: 85%;
+}
+
+.java{
+    /* background-color: #FFA400; */
+    /* background-color:rgb(69, 12, 70); */
+    background-image: linear-gradient(to right, #e64b00, #fe7031);
+    width: 75%;
+}
+
+.mongo{
+    /* background-color: rgb(21, 109, 21); */
+    /* background-color:rgb(30, 8, 90); */
+    background-image: linear-gradient(to right, #e64b00, #fe7031);
+    width: 80%;
+}
